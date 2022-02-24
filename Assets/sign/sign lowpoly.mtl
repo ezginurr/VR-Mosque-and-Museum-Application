@@ -1,0 +1,7 @@
+newmtl Box material_04f029b6-efdd-4809-80c6-bb54eaa9f710
+Kd 0.800 0.800 0.800
+d 1.000
+newmtl Box material 9_3a86a5bc-650b-4fa5-92fb-891818e1062f
+Kd 1.000 1.000 1.000
+d 1.000
+map_Kd 1.jpg

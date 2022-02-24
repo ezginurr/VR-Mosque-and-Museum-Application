@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/mosqueTeleport.unity
+    guid: f7ae96e7fa010f0418956fcefe3ff9f1
+  - enabled: 0
+    path: Assets/Scenes/mosqueTeleport.unity
+    guid: f7ae96e7fa010f0418956fcefe3ff9f1
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/mosqueWalk.unity
+    guid: 1373f51cdca7f9e46ba6dc5a7fc48012
+  - enabled: 0
+    path: Assets/Scenes/museumWalk.unity
+    guid: a8372915c0a07c64aa8d8e500c2dfd17
+  - enabled: 0
+    path: Assets/Scenes/museumTeleport.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/mosqueInteraction2.unity
+    guid: d835007d7ebd8494ea0449048a97a9ae
+  - enabled: 0
+    path: Assets/Scenes/mosqueWalk.unity
+    guid: 1373f51cdca7f9e46ba6dc5a7fc48012
+  - enabled: 0
+    path: Assets/Scenes/museumInteraction.unity
+    guid: 550f860c8b9b3714087f6c3e869cde19
+  - enabled: 1
+    path: Assets/Scenes/mosqueHibrid.unity
+    guid: c144888c61e745b4f8caff11e503c7e0
+  - enabled: 0
+    path: Assets/Scenes/museumInteraction2.unity
+    guid: ed1485dae964d7440bbeee48e478c8ea
+  - enabled: 1
+    path: Assets/Scenes/mosqueInteraction.unity
+    guid: 3182d951e81046a45b97db8fca33b605
+  - enabled: 0
+    path: Assets/Scenes/test.unity
+    guid: c73eb327f1efda443855973b1380432c
+  m_configObjects: {}
